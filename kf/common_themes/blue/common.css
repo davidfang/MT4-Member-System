@@ -1,0 +1,22 @@
+body.framebody div.framebody{border:5px #009be0 solid;-webkit-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;-moz-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;box-shadow:1px 1px 8px #5fb6ff,-1px -1px 8px #5fb6ff;}
+
+body#yeepay div.framebody{background-image:url(yeepay_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/yeepay_header.jpg*/;}
+body#ips div.framebody{background-image:url(ips_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/ips_header.jpg*/;}
+body#registration_real div.framebody{background-image:url(registration_real_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/registration_real_header.jpg*/;}
+body#registration_simulation div.framebody{background-image:url(registration_simulation_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/registration_simulation_header.jpg*/;}
+body#registration_joinin div.framebody{background-image:url(registration_joinin_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/registration_joinin_header.jpg*/;}
+body#capital_in div.framebody{background-image:url(capital_in_header.jpg)/*tpa=http://www.jpmifc.com/common_themes/blue/capital_in_header.jpg*/;}
+body#capital_out div.framebody{background-image:url(capital_out_header.jpg);}
+
+
+
+div.submit button,.itx_btn{background-image:url(button.gif);}
+div.steps ul li span{background-image:url(step.gif);}
+div.step-title{background-color:#0084e4;}
+
+
+a.newwinlink{background-image:url(step.gif);}
+
+
+#common-form div.fielddiv{border-color:#4a7994}
+#common-form div.fielddiv.active{border-color:#0ea3f8}

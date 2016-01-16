@@ -1,0 +1,30 @@
+body,div.submit button,.itx_btn{text-shadow:1px 1px 0px #fde5c9;}
+div.steps ul li.active,div.step-title,#popup_title,
+div.submit button:active,.itx_btn:active{text-shadow:1px 1px 0px #000;}
+
+
+
+
+table.itxtable{border-collapse:inherit;-webkit-box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;-moz-box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;-webkit-box-shadow:2px 2px 5px #ededed;-moz-box-shadow:2px 2px 5px #ededed;box-shadow:2px 2px 5px #ededed;}
+table.itxtable,table.itxtable td{-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+
+div#agreement,
+img.css3,h2.topicstitle,a.logo,div.msgtip,div.fielddiv,div.step-title,
+form.filedform p.field-validation-tip,form.filedform p.field-validation-error,form.filedform p.field-validation-valid,form.filedform p.field-validation-loading,p.field-validation-warning,
+form.filedform input,form.filedform textarea,.filedform select.select
+{-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;
+-webkit-box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;-moz-box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;box-shadow:1px 1px 8px #DEDFE2,-1px -1px 8px #DEDFE2;}
+
+form.filedform input:focus,form.filedform textarea:focus{-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;
+-webkit-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;-moz-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;}
+
+body.framebody div.framebody,
+div.active,
+div.bank_list li{-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+
+div#result_right,div#result_error{-webkit-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;-moz-box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;box-shadow:1px 1px 8px #FBBF9E,-1px -1px 8px #FBBF9E;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+
+
+#popup_container{-webkit-box-shadow:2px 2px 6px #95AFFB,-2px -2px 6px #95AFFB;-moz-box-shadow:2px 2px 6px #95AFFB,-2px -2px 6px #95AFFB;box-shadow:2px 2px 6px #95AFFB,-2px -2px 6px #95AFFB;}
+
+

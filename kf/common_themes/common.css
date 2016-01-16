@@ -1,0 +1,63 @@
+@import url("format.css")/*tpa=http://www.jpmifc.com/common_themes/format.css*/;
+html#en *{font-family:Lucida Grande,Tahoma,Arial,Verdana,Georgia,Times New Roman!important;letter-spacing:0!important;}
+
+body{font:12px/1.5em "Microsoft yahei", Lucida Grande, Verdana, Helvetica, Arial, sans-serif;color:#333333;margin:0;padding:0;border:0;width:100%;background:#fff;}
+a{cursor:pointer;}
+a:active{color:#000;text-decoration:none;}
+a:visited{color:#000;text-decoration:none;}
+a:link{color:#000;text-decoration:none;}
+a:hover{color:#920606;text-decoration:none;}
+a.blue{color:#6C8EE5;}
+a.blue:hover{color:#CC0000;text-decoration:underline;}
+a.orange{color:orange;}
+a.orange:hover{color:#CC0000;text-decoration:underline;} 
+
+
+div#form-body{max-width:1000px;min-height:400px;margin:auto;}
+
+div#form-body div.bank_list{padding-top:10px;}
+div#form-body div.bank_list li{width:154px;padding:6px;float:left;height:33px;margin:0 3px 3px 0;float:left;}
+div#form-body div.bank_list li.hover{border:1px #e3e1a9 solid;background:#fcfbe5;padding:5px;}
+div#form-body div.bank_list li.active{border:2px #fd6c02 solid;background:#fbec01;padding:4px;}
+
+
+div#form-body div.bank_list li label{border:0;}
+div#form-body div.bank_list li label img{float:left;}
+div#common-form{position:relative;}
+
+div.submit{width:444px;overflow:hidden;margin:auto;}
+div.submit button,.itx_btn{display:block;border:0;width:200px;height:50px;float:left;overflow:hidden;background:no-repeat transparent;color:#333;}
+div.submit button span,.itx_btn span{display:block;font-size:14px;width:170px;height:50px;font-weight:600;font-family:微软雅黑;padding:0 15px;line-height:38px;letter-spacing:1px;font-weight:bold;}
+div.submit button:hover,.itx_btn:hover{background-position:left -50px;}
+div.submit button:active,.itx_btn:active{background-position:left bottom;color:#fff;}
+
+
+
+
+body.framebody{background:#f2f9fd;font:12px/18px "Microsoft yahei", Lucida Grande, Verdana, Helvetica, Arial, sans-serif;color:#333333;padding:0;border:0;margin:0; margin:10px auto;}
+body.framebody div.framebody{position:relative;width:970px;min-height:200px;background:0 0 #f9fcfe no-repeat;padding:110px 15px 15px 15px!important;margin:20px auto;}
+
+
+
+/*表单 步骤*/
+div.steps{}
+div.steps ul{margin:0 10px;}
+div.steps ul li{float:left;margin-right:5px;}
+div.steps ul li span{display:block;float:left;height:22px;line-height:22px;overflow:hidden;background:transparent no-repeat;padding:0 3px;color:#324B72}
+div.steps ul li span.l{width:5px;background-position:left top;}
+div.steps ul li span.c{width:auto;background-position:-5px top;}
+div.steps ul li span.r{width:5px;background-position:right top;}
+
+div.steps ul li.active span{color:#fff}
+div.steps ul li.active span.l{width:5px;background-position:left -22px;}
+div.steps ul li.active span.c{width:auto;background-position:-5px -22px;}
+div.steps ul li.active span.r{width:5px;background-position:right -22px;}
+
+div.steps li#step-ok{float:right;margin-right:0;display:none;}
+
+div.step-title{height:46px;color:#fff;padding:13px 20px;font-size:26px;line-height:26px;letter-spacing:1px;margin-bottom:5px;}
+div.step-title span{font-size:12px;letter-spacing:0px;color:#f6f8f8;}
+
+
+
+

@@ -1,0 +1,189 @@
+blockquote{margin:0;padding:0;}p{margin:0;padding:0;}textarea{margin:0;padding:0;}input{margin:0;padding:0;}fieldset{margin:0;padding:0;}form{margin:0;padding:0;}pre{margin:0;padding:0;}h6{margin:0;padding:0;}h5{margin:0;padding:0;}h4{margin:0;padding:0;}h3{margin:0;padding:0;}h2{margin:0;padding:0;}h1{margin:0;padding:0;}li{margin:0;padding:0;}ol{margin:0;padding:0;}ul{margin:0;padding:0;}dd{margin:0;padding:0;}dt{margin:0;padding:0;}dl{margin:0;padding:0;}div{margin:0;padding:0;}body{margin:0;padding:0;}img{border:0;}fieldset{border:0;}var{font-style:normal;font-weight:normal;}th{font-style:normal;font-weight:normal;}strong{font-style:normal;font-weight:normal;}em{font-style:normal;font-weight:normal;}dfn{font-style:normal;font-weight:normal;}code{font-style:normal;font-weight:normal;}cite{font-style:normal;font-weight:normal;}caption{font-style:normal;font-weight:normal;}address{font-style:normal;font-weight:normal;}ul{list-style:none;}ol{list-style:none;}th{text-align:left;}caption{text-align:left;}h6{font-size:100%;font-weight:normal;}h5{font-size:100%;font-weight:normal;}h4{font-size:100%;font-weight:normal;}h3{font-size:100%;font-weight:normal;}h2{font-size:100%;font-weight:normal;}h1{font-size:100%;font-weight:normal;}q:after{content:'';}q:before{content:'';}acronym{border:0;}
+strong{font-weight:bold;}.none{display:none!important;}.tc *,.tc{text-align:center!important;}a.tc{text-indent:0!important;}.tl *,.tl{text-align:left!important;}.tr *,.tr{text-align:right!important;}button{cursor:pointer;}
+.u{border-bottom:1px black dotted;}
+.i{font-style:italic;color:#666;}
+.red,.red *{color:#CC0000!important}
+.green,.green *{color:green!important}
+.en,.num,.count{font-family:Lucida Grande,Tahoma,Arial,Verdana,Georgia,Times New Roman!important;letter-spacing:0!important;}
+.cn{font-family:微软雅黑,宋体!important;}
+.font16{font-size:16px!important;font-family:Lucida Grande,Tahoma,Arial,Verdana,Georgia,Times New Roman!important;}
+.price{font-size:18px;color:red;font-family:Lucida Grande,Tahoma,Arial,Verdana,Georgia,Times New Roman!important; font-weight:bold;}
+.mr0{margin-right:0!important;}.ml0{margin-left:0!important;}.ml5{margin-left:5px!important;}.mt10{margin-top:10px!important;}.mr10{margin-right:10px!important;}.mr15{margin-right:15px!important;}.mr20{margin-right:20px!important;}.mr50{margin-right:50px!important;}m0{margin:0!important;padding:0!important;}
+.marginfalse{margin:0!important;}
+.paddingfalse{padding:0!important;}
+.green{color:green}
+.clear{clear:both;height:0px;overflow:hidden;}
+.clear10{clear:both;height:10px;font-size:10px;overflow:hidden;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;} 
+.textleft{text-align:left!important;}
+.textright{text-align:right!important;}
+.textcenter{text-align:center!important;}
+.bgnone{background:none!important;}
+.bordernone{border:0!important;}
+.two{ float:left;width:50%;}
+.last{border-right:0;margin-right:0!important;}
+.relative{position:relative!important;overflow:hidden;}
+.fl{float:left!important;display:inline-block;}
+.fr{float:right!important;display:inline-block;}
+.y{display:inline-block;margin:0px 10px;height:10px;margin-top:-15px;font-size:10px;border-right:1px #ccc solid;overflow:hidden;}
+.bold{font-weight:bold;}
+a{color:#000;text-decoration:none;}
+
+
+
+/*H*/
+h1{font-size:30px;text-align:center;line-height:50px;width:100%;border-bottom:3px solid #FF6600;margin-bottom:10px;color:#fa7001;font-weight:300;}
+h2{font-size:15px;border-bottom:2px solid #FF6600;line-height:30px;font-weight:600;margin-bottom:8px;position:relative;background:url(doc.png)/*tpa=http://www.jpmifc.com/common_themes/doc.png*/ left 6px transparent no-repeat;padding-left:20px;}
+h3{font-size:13px;background:url(dotline.gif)/*tpa=http://www.jpmifc.com/common_themes/dotline.gif*/ repeat-x left bottom;line-height:25px;margin-bottom:5px;position:relative;}
+h4{font-size:13px;background:url(dotline.gif)/*tpa=http://www.jpmifc.com/common_themes/dotline.gif*/ repeat-x left bottom;line-height:25px;margin-bottom:5px;font-style:italic;}
+h2,h2 a,h3,h3 a{color:#1d3d4a!important;text-decoration:none;}
+h2 a:hover,h3 a:hover{color:#CC0000!important;}
+div.attr{text-align:center;line-height:30px;color:#754801;margin:-10px 0 10px 0;}
+
+div#result_right,div#result_error{position:relative;line-height:16px;border:2px solid #FF6600;padding:30px 0 0 150px;color:#000;margin-bottom:10px;height:90px;letter-spacing:1px;background:url(result.png)/*tpa=http://www.jpmifc.com/common_themes/result.png*/ #FFFFDD no-repeat;}
+div#result_right.blue,div#result_error.blue{border:2px solid #6AA7F6;background-color:#E6F0F6;}
+div#result_right p,div#result_error p{line-height:30px;text-indent:0;font-size:26px;}
+div#result_right em,div#result_error em{margin-top:0px;margin-left:-24px;}
+div#result_error{background-position:left bottom;}
+
+a.newwinlink{display:block;width:58px;height:58px;background:left bottom transparent no-repeat;position:absolute;right:8px;top:30px;text-indent:-999em;}
+a.newwinlink:hover{background-position:-58px bottom;}
+a.dowonloadlink{display:block;width:230px;height:70px;background:url(download.gif)/*tpa=http://www.jpmifc.com/common_themes/download.gif*/ transparent no-repeat;position:absolute;right:22px;top:22px;text-indent:-999em;}
+a.dowonloadlink:hover{background-position:left bottom}
+
+
+
+
+a.closediv{display:block;width:16px;height:16px;position:absolute;right:5px;top:4px;text-indent:-999em;background:url(icon.png)/*tpa=http://www.jpmifc.com/common_themes/icon.png*/ -420px -32px transparent no-repeat;}
+
+
+div.msgtip{position:relative;margin:0 0 5px 0;line-height:20px;border:1px solid #89c8f8;background-color:#F1FAFF;padding:5px;color:#000;margin:10px 0;}
+
+ul.list{margin:0;padding:0;}
+ul.list ul.list{width:100%;overflow:hidden;}
+ul.list li{background:url(dian.gif)/*tpa=http://www.jpmifc.com/common_themes/dian.gif*/ 0 7px no-repeat;width:100%;text-indent:14px;line-height:22px;position:relative;}
+ul.list li.li2,ul.li2 li{width:48%;margin-right:1%;float:left;overflow:hidden;}
+ul.list li.li3,ul.li3 li{width:32%;margin-left:1%;float:left;overflow:hidden;}
+ul.list li.li4{width:23%;margin-right:6px;float:left;overflow:hidden;}
+ul.list li.li5{width:19%;margin-right:6px;float:left;overflow:hidden;}
+ul.list li a:hover{text-decoration:underline;}
+div.text ul.list li.li2{width:285px;margin-right:0;}
+div.text ul.list li.first{background:none;text-indent:0;margin:0; margin-right:0;width:295px;line-height:18px;}
+div.text ul.list li.first strong{margin-left:5px;}
+div.text img.css3{border:1px #ccc solid;padding:1px;}
+ul.list span.date{font-family:"Arial Unicode MS";color:#666;position:absolute;right:10px;top:0;}
+li a img{margin:0 5px;}
+div.div2{width:50%;float:left;}
+div.div3{width:33%;float:left;margin-right:1%;}
+table.itxtable{border:1px #DCDBD9 solid;width:100%;margin:5px 0 20px 0;border-collapse:collapse;}
+table.itxtable table.itxtable{width:99%;margin:.5%;}
+table.itxtable table.itxtable td.lefttd{width:15%;}
+table.itxtable th,.itxtable thead td{background:url(x_bg.gif)/*tpa=http://www.jpmifc.com/common_themes/x_bg.gif*/ left -499px #F2F1EF repeat-x;line-height:30px;border:1px #DCDBD9 solid;color:#324B72;border-collapse:collapse;padding:8px;text-align:center;color:#324B72;font:600 13px/25px 微软雅黑;letter-spacing:1px;}
+table.itxtable td.active,table.itxtable td.on,table.itxtable tr.active td,table.itxtable tr.on td{color:#324B72;background:url(x_bg.gif)/*tpa=http://www.jpmifc.com/common_themes/x_bg.gif*/ left -499px #F5F9DE repeat-x;}
+table.itxtable td{border:1px #DCDBD9 solid;border-collapse:collapse;padding:8px 5px;background:#fff;text-align:left;}
+table.itxtable .tc{text-align:center!important;padding:0!important;}
+table.itxtable tbody tr.trbg td,table.itxtable td.tdb{background:url(x_bg.gif)/*tpa=http://www.jpmifc.com/common_themes/x_bg.gif*/ left -499px #FCF9F9 repeat-x;}
+table.itxtable .lefttd{background:url(x_bg.gif)/*tpa=http://www.jpmifc.com/common_themes/x_bg.gif*/ left -499px #F2F1EF repeat-x;color:#66717D;width:15%;text-align:right;color:#324B72;}
+table.itxtable .righttd{text-align:left;width:35%;}
+table.itxtable tfoot td,table.itxtable tfoot th{background:url(x_bg.gif)/*tpa=http://www.jpmifc.com/common_themes/x_bg.gif*/ left -499px #F2F1EF repeat-x;color:#66717D;height:30px;line-height:30px;vertical-align:middle;}
+table.lh30 td,table.lh30 th{line-height:30px;}
+table.itxtable .xuhao{font-family:Arial,Helvetica,sans-serif!important;font-size:13px;color:#1d3d4a!important;font-weight:bold!important;font-style:italic!important;width:40px!important;text-align:center;}
+
+a.fourtext{display:block;width:90px;height:24px;letter-spacing:1px;color:#0F1F98;float:left;text-align:center;line-height:24px;font:12px/24px 微软雅黑,宋体;position:relative;background:url(common.png)/*tpa=http://www.jpmifc.com/common_themes/common.png*/ -400px -108px transparent no-repeat;border:0;margin:4px 5px 2px 3px;}
+a.fourtext:hover{background-position:-400px -132px;}
+
+
+/*===============================jalert 插件*/
+#popup_container{font-family:微软雅黑,宋体,Arial,sans-serif;font-size:12px;width:380px;background:transparent;overflow:hidden;}
+.fLe,.fLeft{float:left}.fRi,.fRig{float:right}
+#popup_container .fLe{width:6px;height:29px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ 0px 0 no-repeat;display:block;float:left;}
+#popup_container .fRi{width:6px;height:29px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ -20px 0 no-repeat;display:block;float:right;}
+#popup_title{height:29px;padding:0;margin:0px;line-height:12px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ 0px -400px no-repeat;position:relative;font-size:13px;letter-spacing:1px;border:0;}
+#popup_title .icoSw{width:14px;height:14px;margin:7px 4px 0 2px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ -6px -7px no-repeat;display:block;float:left}
+#popup_title #thistitle{float:left;padding-top:8px;cursor:default;color:#FFF;font-weight:bold;font-size:12px;}
+#popup_title a#btnCls{position:absolute;right:2px;top:7px;}
+#popup_title a#btnCls{display:block;width:26px;height:15px;;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ 0 -80px no-repeat;overflow:hidden;}
+#popup_title a#btnCls:hover{background-position:0 -95px}
+#popup_content{background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ #fff -30px 0 repeat-y!important;}
+#popup_message{margin:0 3px;color:#333;padding:16px 18px 20px 56px;}
+#popup_message a{border-bottom:1px #ccc dotted; color:green;}
+#popup_content .alert{background:url(info.gif)/*tpa=http://www.jpmifc.com/common_themes/info.gif*/ #fff 15px 11px no-repeat;}
+#popup_content .confirm{background:url(help.gif)/*tpa=http://www.jpmifc.com/common_themes/help.gif*/ #fff 15px 11px no-repeat;}
+#popup_content .prompt{background:url(important.gif)/*tpa=http://www.jpmifc.com/common_themes/important.gif*/ #fff 15px 11px no-repeat;}
+#popup_prompt {margin:.5em 0em;}
+#popup_panel{height:51px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ 0 -430px repeat-x;position:relative;border:0;}
+#popup_panel .fLe{width:6px;height:51px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ 0 -28px no-repeat;position:absolute;left:0;top:0}
+#popup_panel .fRi{width:6px;height:51px;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ -20px -28px no-repeat;position:absolute;right:0;top:0;}
+.botbtn{display:inline-block;float:right;margin:12px 20px 0 0;letter-spacing:8px;text-indent:8px;width:60px;height:24px;text-align:center;line-height:24px;font:12px/24px 微软雅黑,宋体;position:relative;background:url(alert.gif)/*tpa=http://www.jpmifc.com/common_themes/alert.gif*/ right 0px transparent no-repeat;border:0;cursor:pointer;}
+.botbtn:hover{background-position:right -24px;}
+
+
+/*表单*/
+.filedform{letter-spacing:0;margin-top:20px;}
+#common-form h2{font-size:15px!important;margin-bottom:5px;color:#172b5a!important;}
+#common-form h3{font-size:14px!important;margin-bottom:2px;color:#172b5a!important;font-style:italic;background:url(dotline.gif)/*tpa=http://www.jpmifc.com/common_themes/dotline.gif*/ repeat-x left bottom;border:0;}
+#common-form h4{font-size:12px!important;margin-bottom:2px;color:#172b5a!important;font-style:italic;background:url(dotline.gif)/*tpa=http://www.jpmifc.com/common_themes/dotline.gif*/ repeat-x left bottom;border:0;}
+#common-form dd h4{margin-bottom:5px;}
+#common-form h3 span.floatright{display:block;position:absolute;right:0px;top:0px;font-style:normal;font-size:12px;}
+#common-form dl{clear:both;padding:12px 0 0px 0;width:100%;background:url(dotline.gif)/*tpa=http://www.jpmifc.com/common_themes/dotline.gif*/ repeat-x left top;display:inline-table;margin-bottom:8px;}
+#common-form dl.first{background-image:none;}
+#common-form dl table td,#common-form dl table th{line-height:20px!important;padding:3px 5px!important;}
+#common-form dl dt{float:left;width:14%;text-align:right;padding-right:5px;line-height:15px;padding-top:5px;color:#3a3a89!important;}
+#common-form dl dt span{padding:0 12px 0 0;}
+#common-form dl dd{float:left;width:84%;text-align:left;padding-right:5px;line-height:28px;position:relative;}
+#common-form dl dd p{min-width:50px;}
+#common-form dl dd div.two{float:left;width:47%; margin-right:3px;}
+#common-form dl.concise{display:none;}
+#common-form input.input{border:1px #999 solid;height:20px;line-height:20px;padding:2px 5px;background:#F1FAFF;font-size:13px;font-family:微软雅黑;width:90%;color:green;margin-bottom:3px;letter-spacing:1px;cursor:default;}
+#common-form .en{letter-spacing:0!important;}
+#common-form textarea.textarea{border:1px #999 solid;line-height:16px;padding:6px;background:#F1FAFF;font-size:13px;font-family:微软雅黑;width:90%;color:#CC0000;height:80px;margin-bottom:3px;letter-spacing:1px;cursor:default;}
+#common-form input.checkbox,#common-form input.radio{margin:0px 6px 0 0;position:relative;top:8px;cursor:pointer;float:left;}
+#common-form select.select{border:1px #999 solid;color:green;margin-bottom:3px;background:#F1FAFF;font-size:13px;font-weight:bold;padding:5px;letter-spacing:1px;cursor:default;width:93%;}
+#common-form label{margin-right:20px;}
+#common-form label:hover{border-bottom:1px green dotted;height:22px;}
+#common-form a.searchininput{background:url("search_inputbg.gif")/*tpa=http://www.jpmifc.com/common_themes/search_inputbg.gif*/ no-repeat left -1px;width:27px;height:20px;position:absolute;right:80px;top:4px;}
+#common-form input.input:focus,#common-form input.input.focus,
+#common-form textarea.textarea:focus,#common-form textarea.textarea.focus{background:#FFFFD8;color:red;}
+#common-form div.submit button{margin:20px 10px 20px 10px;min-width:180px;text-align:left;}
+
+
+div#agreement{border:1px #999 solid;height:20px;line-height:20px;padding:5px;background:#F1FAFF;width:90%;margin-bottom:3px;cursor:default;font-size:12px;height:200px;overflow:hidden;margin:10px 0;}
+div#agreement div.agreement{width:100%;height:100%;overflow:auto;color:#000}
+div#agreement div.agreement p{padding:0;border:0;margin:0;background:none;line-height:20px;width:100%;height:auto;}
+div#agreement div.agreement a{text-decoration:underline}
+
+#common-form dl dd p{clear:both;background:url(formtips.gif)/*tpa=http://www.jpmifc.com/common_themes/formtips.gif*/ 3px bottom no-repeat;padding:0px 6px 0 0px;border:1px solid transparent;_width:80%;line-height:24px;height:24px;overflow:hidden;display:inline-block;clear:both;margin-bottom:0px!important;text-indent:0!important;padding-left:22px;}
+#common-form p.field-validation-tip{background-position:3px 4px;background-color:#E2F5FF;border-color:#00A8FF!important; }
+#common-form p.field-validation-error{background-position:3px -46px;background-color:yellow;border-color:#FF6600!important;}
+#common-form p.field-validation-valid{background-position:3px -73px;background-color:#E6FFE6;border-color:#00BE00!important;padding-left:22px;}
+#common-form p.field-validation-warning{background-position:3px -102px;background-color:#fcfcda;border-color:#ff7b00!important; }
+#common-form p.field-validation-loading{background:url(blueloading.gif)/*tpa=http://www.jpmifc.com/common_themes/blueloading.gif*/ 3px 4px transparent no-repeat; background-color:#E2F5FF;border-color:#00A8FF!important;}
+#common-form dl dd p.notbg{background:none;}
+
+
+
+#common-form div.fielddiv{border:1px transparent dotted;padding:10px 8px;margin:8px 0;clear:both;position:relative;clear:both;}
+#common-form div.fielddiv.active{border:2px transparent solid;background:#fefdfa;padding:9px 7px;}
+#common-form div.fielddiv a.deldiv{position:absolute;right:30px;top:40px;background:#fb5905;border:1px #222 dotted;display:block;width:15px;text-align:center;padding:22px 10px 10px 10px;color:#000;}
+#common-form div.fielddiv a.deldiv:hover{background:#ff8503;}
+#common-form div.stepdiv{display:none;clear:both;}
+#common-form div#step1{display:block;}
+
+
+em.icon_save{float:left;margin:12px 8px 0 0px;background:url(save.gif) transparent no-repeat;width:16px;height:16px;}
+em.icon_next{float:left;margin:12px 8px 0 0px;background:url(next.png) transparent no-repeat;width:16px;height:16px;}
+em.icon_prev{float:left;margin:12px 8px 0 0px;background:url(prev.png) transparent no-repeat;width:16px;height:16px;}
+em.loading{float:left;margin:13px 8px 0 0px;background:url(loading.gif) transparent no-repeat;width:16px;height:16px;}
+div.loading-line{background:url(loading-line.gif) transparent no-repeat;padding-top:14px;color:#999;line-height:12px;width:100px;margin:0px auto 30px auto;font-family:Lucida Grande,Tahoma,Arial,Verdana,Georgia,Times New Roman!important;}
+
+
+
+/*分页样式*/
+div.pagination{height:50px;margin:20px 0;position:relative;width:100%;}
+div.pagination a.scrollto,div.pagination a.prev,div.pagination a.next{display:block;width:100px;height:18px;background:url(pagination.png) left top transparent no-repeat;text-align:center;padding-top:32px;}
+div.pagination a.scrollto{background-position:left top;margin:auto;}
+div.pagination a.prev{background-position:left bottom;position:absolute;left:0;top:0;}
+div.pagination a.next{background-position:left -50px;position:absolute;right:0;top:0;}
+
+

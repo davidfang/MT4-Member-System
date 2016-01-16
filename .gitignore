@@ -1,0 +1,6 @@
+# Windows image file caches
+Thumbs.db
+
+captcha/*.jpg
+uploads
+public/ueditor/php/upload/*.*
