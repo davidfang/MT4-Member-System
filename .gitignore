@@ -2,5 +2,5 @@
 Thumbs.db
 
 captcha/*.jpg
-uploads
+uploads/*.*
 public/ueditor/php/upload/*.*
